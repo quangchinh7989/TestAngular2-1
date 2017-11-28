@@ -1,0 +1,26 @@
+{
+  "name": "testangular2-1",
+  "version": "1.0.0",
+  "description": "test angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangchinh7989/TestAngular2-1.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "quang chinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangchinh7989/TestAngular2-1/issues"
+  },
+  "homepage": "https://github.com/quangchinh7989/TestAngular2-1#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
